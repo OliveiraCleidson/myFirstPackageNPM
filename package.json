@@ -1,5 +1,5 @@
 {
-  "name": "my-first-package",
+  "name": "@olivsolutions/my-first-package",
   "version": "1.0.0",
   "main": "src/main.js",
   "license": "MIT",
