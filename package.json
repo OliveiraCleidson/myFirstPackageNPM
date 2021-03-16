@@ -1,6 +1,6 @@
 {
   "name": "@olivsolutions/my-first-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/main.js",
   "license": "MIT",
   "repository": "git@github.com:OliveiraCleidson/myFirstPackageNPM.git",
