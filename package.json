@@ -1,6 +1,9 @@
 {
   "name": "my-first-package",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "src/main.js",
+  "license": "MIT",
+  "repository": "git@github.com:OliveiraCleidson/myFirstPackageNPM.git",
+  "author": "Cleidson Oliveira <gk.cleidson@yahoo.com.br>",
+  "private": false
 }
